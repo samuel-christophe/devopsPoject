@@ -1,3 +1,3 @@
-voici mon fichiée lisé moi/
-Je ne sais pas quoi mettre dedans./
-Voici une nouvelle ligne./
+voici mon fichiée lisé moi\n
+Je ne sais pas quoi mettre dedans.\n
+Voici une nouvelle ligne.\n
